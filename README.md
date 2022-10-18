@@ -23,8 +23,6 @@
 
 - 📄 Know about my experiences [https://www.arshanaslam.me/](https://www.arshanaslam.me/)
 
-![image](https://user-images.githubusercontent.com/54641847/196425499-0a77d047-7984-4f83-9665-81c898ce84fd.png)
-
 <h1 align="center">
 Connect with me</h1>
 <p align="center">
