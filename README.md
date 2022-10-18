@@ -1,7 +1,7 @@
 
+![Black Gaming Desktop Wallpaper (2)](https://user-images.githubusercontent.com/54641847/196450465-a901721e-55bc-45e7-bca7-60b0c368c865.png)
+
 <p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
-
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=alduin" alt="arshanaslam1" /></a> </p>
 
