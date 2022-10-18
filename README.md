@@ -2,7 +2,7 @@
 <h3 align="center">Python | Django | DRF | React.js | Redux | Next.js | Software Engineer</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=onedark" alt="arshanaslam1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=alduin" alt="arshanaslam1" /></a> </p>
 
 
 - 👀 I’m interested in Python
