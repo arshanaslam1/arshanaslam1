@@ -1,13 +1,10 @@
 
-![Black Gaming Desktop Wallpaper (3)](https://user-images.githubusercontent.com/54641847/196450971-258cc609-b62f-4499-a223-2f3d1d6f4a95.png)
-
+![Black Gaming Desktop Wallpaper (5)](https://user-images.githubusercontent.com/54641847/196454964-7a325464-a26e-46e2-ac2c-8587f73f90b8.png)
 
 <p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=alduin" alt="arshanaslam1" /></a> </p>
 
-
-- 👀 I’m interested in Python
 
 - 🔭 I’m currently working on **Education Management System**
 
