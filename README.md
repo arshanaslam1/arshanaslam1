@@ -1,5 +1,5 @@
 
-![Black Gaming Desktop Wallpaper (5)](https://user-images.githubusercontent.com/54641847/196454964-7a325464-a26e-46e2-ac2c-8587f73f90b8.png)
+![Black Gaming Desktop Wallpaper (6)](https://user-images.githubusercontent.com/54641847/196456021-ead3655f-a78f-4899-8a8e-73388fefad1d.png)
 
 <p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
 
