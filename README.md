@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arshan Aslam</h1>
+<h1 align="center">Hi 👋, I'm Arshan Aslam <br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></h1>
 <h3 align="center">Python | Django | DRF | React.js | Redux | Next.js | Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1" alt="arshanaslam1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=onedark" alt="arshanaslam1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arshanaslam1" target="blank"><img src="https://img.shields.io/twitter/follow/arshanaslam1?logo=twitter&style=for-the-badge" alt="arshanaslam1" /></a> </p>
+
+- 👀 I’m interested in Python
 
 - 🔭 I’m currently working on **Education Management System**
 
