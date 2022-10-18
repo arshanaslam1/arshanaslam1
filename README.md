@@ -1,9 +1,8 @@
+![Black Gaming Desktop Wallpaper (4)](https://user-images.githubusercontent.com/54641847/196446494-dd3825fa-6082-44f0-ad82-e7cfba9cd5da.gif)
 
-[Untitled.webm](https://user-images.githubusercontent.com/54641847/196441517-79d2835e-1af6-46b6-8e0c-f4348fbcf86e.webm)
 
+<p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
 
-<h1 align="center">Hi 👋, I'm Arshan Aslam <br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></h1>
-<h3 align="center">Python | Django | DRF | React.js | Redux | Next.js | Software Engineer</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshanaslam1&theme=alduin" alt="arshanaslam1" /></a> </p>
