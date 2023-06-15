@@ -54,7 +54,7 @@ Connect with me</h1>
   
 
 # 📈 Contribution Graph  
- [![ArshanAslam's Github activity graph](https://activity-graph.herokuapp.com/graph?username=arshanaslam1&&theme=chartreuse-dark)](https://github.com/arshanaslam1)
+ [![ArshanAslam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshanaslam1&theme=dracula)](https://github.com/arshanaslam1/github-readme-activity-graph)
  
 
 **I am always up for open source contributions, let's collaborate together!**
