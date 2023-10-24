@@ -1,6 +1,5 @@
 
-![github-header-image](https://github.com/arshanaslam1/arshanaslam1/assets/54641847/b797236e-41a4-4bad-b6e9-2c589254f572)
-
+![Copy of Black Futuristic Software Engineer Business Card (1)_auto_x2 (1) (1)](https://github.com/arshanaslam1/arshanaslam1/assets/54641847/e7c8c6a4-0a1d-42b9-a866-49341dfaa811)
 
 <p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
 
