@@ -12,15 +12,15 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://www.arshanaslam.me/](https://www.arshanaslam.me/)
+- 👨‍💻 All of my projects are available at [https://arshanaslam.me/](https://arshanaslam.me/)
 
-- 📝 I regularly write articles on [https://www.arshanaslam.me/blog](https://www.arshanaslam.me/blog)
+- 📝 I regularly write articles on [https://blog.arshanaslam.me](https://blog.arshanaslam.me)
 
 - 💬 Ask me about **Python, Django, DRF, ReactJS, NextJS**
 
 - 📫 How to reach me **hello@arshanaslam.me**
 
-- 📄 Know about my experiences [https://www.arshanaslam.me/](https://www.arshanaslam.me/)
+- 📄 Know about my experiences [https://arshanaslam.me/](https://arshanaslam.me/)
 
 <h1 align="center">
 Connect with me</h1>
