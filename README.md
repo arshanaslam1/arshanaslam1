@@ -1,5 +1,5 @@
 
-![Copy of Black Futuristic Software Engineer Business Card (1)_auto_x2 (1) (1)](https://github.com/arshanaslam1/arshanaslam1/assets/54641847/e7c8c6a4-0a1d-42b9-a866-49341dfaa811)
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/b6d5c406-9c02-4783-87ef-67e05d7ffe63)
 
 <p align="right"><br><img src="https://komarev.com/ghpvc/?username=arshanaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="arshanaslam1" /></p>
 
