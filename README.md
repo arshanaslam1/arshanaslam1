@@ -3,9 +3,9 @@
 **AI Engineer** — I build LLM applications, AI agents and the Python backends they run on.
 4+ years shipping production systems, working fully remote with a US team.
 
-- 🤖 **Now:** LLM agents, MCP servers and adaptive AI experiences for a creator platform: an AI coach agent, AI-guided adaptive onboarding, and an MCP server that lets AI assistants work with the product
-- 🎬 **Also built:** recommendation engines, Celery/Redis video pipelines and Next.js frontends for a streaming platform, and HIPAA-compliant healthcare software
-- 🧰 **Stack:** Python · Django/DRF · FastAPI · LangChain · LangGraph · RAG · pgvector · React/Next.js · TypeScript · PostgreSQL · Redis · AWS/GCP · Docker · Terraform
+- 🤖 **Now:** shipping a standalone AI coaching product built on a LangGraph tool-calling agent (OpenAI/Claude, Langfuse tracing), plus an MCP server and adaptive AI onboarding for a creator platform
+- 🎬 **Also built:** recommendation engines, Celery/Redis video pipelines and Next.js frontends for a streaming platform, and healthcare software built to HIPAA requirements
+- 🧰 **Stack:** Python · Django/DRF · FastAPI · LangChain · LangGraph · Langfuse · MCP · RAG · pgvector · React/Next.js · TypeScript · PostgreSQL · Redis · AWS/GCP · Docker · Terraform
 - 🌍 **Open to:** remote roles worldwide and relocation to Germany / EU (EU Blue Card eligible)
 - 📫 **Contact:** hello@arshanaslam.me · [arshanaslam.me](https://arshanaslam.me) · [LinkedIn](https://linkedin.com/in/arshanaslam1) · [Blog](https://blog.arshanaslam.me)
 
